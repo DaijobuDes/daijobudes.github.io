@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Merry's Blog]]></title><description><![CDATA[Merry's Blog using GatsbyJS.]]></description><link>https://d-des.ga</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 25 Aug 2020 12:18:49 GMT</lastBuildDate><item><title><![CDATA[About online privacy]]></title><description><![CDATA[So, in these days, we all know that in this kind of generation,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Merry's Blog]]></title><description><![CDATA[Merry's Blog using GatsbyJS.]]></description><link>https://d-des.ga</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 26 Aug 2020 07:47:17 GMT</lastBuildDate><item><title><![CDATA[MADE4Learners Framework]]></title><description><![CDATA[Week 1 experiences using the MADE4Learners framework. Online classes have started August 17, 2020. This is actually my
+first time having…]]></description><link>https://d-des.ga/MADE4Learners-framework/</link><guid isPermaLink="false">https://d-des.ga/MADE4Learners-framework/</guid><pubDate>Mon, 24 Aug 2020 19:47:00 GMT</pubDate><content:encoded>&lt;h3&gt;Week 1 experiences using the MADE4Learners framework.&lt;/h3&gt;
+&lt;p&gt;Online classes have started August 17, 2020. This is actually my
+first time having online classes so it would probably be hard
+for me to adapt. Especially if devices are limited, a low-end
+laptop, and a slow and expensive internet.&lt;/p&gt;
+&lt;p&gt;As online classes start, we currently used &lt;a href=&quot;https://zoom.us&quot;&gt;Zoom&lt;/a&gt;, &lt;a href=&quot;https://meet.google.com&quot;&gt;Google Meets&lt;/a&gt; and probably &lt;a href=&quot;https://www.microsoft.com/en/microsoft-365/microsoft-teams/group-chat-software&quot;&gt;Microsoft Teams&lt;/a&gt;.
+It can still be hard especially if internet connection is slow,
+making the audio sound robotic, and stuck video. And especially the Moodle server gets down in some times.&lt;/p&gt;
+&lt;p&gt;Although internet problems can be a burden in online classes,
+it shouldn’t be a problem unless internet is cut off, it is a big
+problem to me. Using mobile data can be very wasteful, especially
+if data is limited. When it comes to using video, it would probably use up to &lt;code class=&quot;language-text&quot;&gt;1 GB&lt;/code&gt; of data in an average of one hour.&lt;/p&gt;
+&lt;p&gt;Low-end devices like low spec’d laptops, can sometimes be
+frustrating when a program loads very slowly, and when it comes
+to video conferencing, sometimes the program hangs due to
+high cpu usage, also crashing the program. The laptop camera
+sometimes would not respond resulting to display a black screen
+only. And microphone laptop has static feedback but good thing
+that video conferencing programs has noise suppression by
+default, resulting to less static feedback being heard by others
+and a clearer voice when speaking.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About online privacy]]></title><description><![CDATA[So, in these days, we all know that in this kind of generation,
 everyone has a gadget to use, commonly used are phones and personal…]]></description><link>https://d-des.ga/about-online-privacy/</link><guid isPermaLink="false">https://d-des.ga/about-online-privacy/</guid><pubDate>Mon, 24 Aug 2020 14:26:00 GMT</pubDate><content:encoded>&lt;p&gt;So, in these days, we all know that in this kind of generation,
 everyone has a gadget to use, commonly used are phones and personal
 computers. But what about your information?&lt;/p&gt;
