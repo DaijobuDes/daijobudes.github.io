@@ -408,4 +408,8 @@ iframe {
    canvas {
       display: none;
    }
+   
+   .profile-photo img {
+      max-width: 360px;
+   }
 }
