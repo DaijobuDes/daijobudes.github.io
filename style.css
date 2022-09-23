@@ -196,6 +196,7 @@ li, a, button {
 .students {
 	display: grid;
 	margin: 2rem 0;
+   transition:ease 0.3s;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-template-rows: 200px 200px 200px;
 	grid-gap: 1rem;
@@ -367,6 +368,10 @@ iframe {
    margin: 20px;
 }
 
+.heading {
+   font-size: 80px;
+}
+
 @media (max-width: 600px){
    .weekly-container{
       display: block;
@@ -374,5 +379,32 @@ iframe {
 
    .weekly {
       margin: 30px;
+   }
+
+   .vision {
+      position: relative;
+      margin-inline-start: 0%;
+      width: 100%
+   }
+
+   .mission {
+      margin-inline-start: 0%;
+      width: 100%;
+   }
+
+   iframe {
+      width: 400px;
+   }
+
+   .students {
+      transform:scale(0.6);
+   }
+
+   .heading {
+      font-size: 40px;
+   }
+
+   canvas {
+      display: none;
    }
 }
