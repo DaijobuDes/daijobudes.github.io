@@ -331,6 +331,7 @@ li, a, button {
 
 .weekly {
    max-width: 400px;
+   min-height: 200px;
    padding: 2rem;
    border: solid;
    counter-increment: section;
@@ -364,4 +365,14 @@ iframe {
    height: 400px;
    border-style: none;
    margin: 20px;
+}
+
+@media (max-width: 600px){
+   .weekly-container{
+      display: block;
+   }
+
+   .weekly {
+      margin: 30px;
+   }
 }
